@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 day la file cua branch inbangcuuchuong_2
+=======
+day la file cua branch inbangcuuchuong_3
+>>>>>>> bangcuuchuong_3
